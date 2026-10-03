@@ -331,3 +331,15 @@ Dengan mekanisme tersebut, aplikasi dapat menampilkan perubahan data secara real
 **Wisnu Wardhana**  
 **2411037**  
 **S1 Informatika**
+
+## Hasil Pengujian
+
+Pengujian dilakukan menggunakan Android Emulator Pixel 7 API 34.
+
+Hasil pengujian menunjukkan bahwa:
+
+- Progress berubah sesuai jumlah data yang diisi.
+- Live Profile Preview diperbarui secara real-time.
+- Tombol Simpan Profil aktif setelah seluruh field terisi.
+- Data profil tampil setelah tombol Simpan Profil ditekan.
+- Perubahan tampilan terjadi melalui mekanisme recomposition.
